@@ -1,10 +1,10 @@
 # Learn Assembler
 
-Higher School of Economics 2nd year Assembler course programs
+Higher School of Economics 2nd year flat assembler (FASM) course programs.
 
 ## Homework
 
-Each program has its own folder. Each folder contains screens folder.
+Each program has its own folder. Each folder contains 'screens' folder.
 
 ### First homework
 
